@@ -1,5 +1,4 @@
 // Midof2Arrays.cpp
-// Peili Xu
 // 4.12.2019
 
 #include "stdafx.h"
