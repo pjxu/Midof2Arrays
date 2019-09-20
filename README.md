@@ -24,4 +24,4 @@ The median is (2 + 3)/2 = 2.5
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
 
-Simply download exe file in x64/Debug and RUN.
+Simply download exe file and RUN.
